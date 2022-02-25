@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Feb 25 21:15:52 2022
 
-@author: 91838
 """
 for i in range(8): # filling dp rows
    dp[1,i]=i
