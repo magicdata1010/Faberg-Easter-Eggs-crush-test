@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-"""
+"""  # using bottom-up dp 
 for i in range(8): # filling dp rows
    dp[1,i]=i
 print(dp[1][-8])
